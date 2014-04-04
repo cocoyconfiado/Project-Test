@@ -2,4 +2,4 @@ $font-primary: red;
  @import 'bootstrap';
 .header {color: $font-primary; @include make-xs-column(12);}
 
-[class^="col-"] {background-color:#ccc; color:#333; border:1px solid #ddd; margin:4px}
+
